@@ -13,7 +13,6 @@ module Patreon
         define :VANITY, 'vanity'
         define :ABOUT, 'about'
         define :FACEBOOK_ID, 'facebook_id'
-        define :IMAGE_URL, 'image_url'
         define :THUMB_URL, 'thumb_url'
         define :THUMBNAILS, 'thumbnails'
         define :YOUTUBE, 'youtube'

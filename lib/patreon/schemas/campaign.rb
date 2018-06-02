@@ -11,7 +11,6 @@ module Patreon
         define :MAIN_VIDEO_EMBED, 'main_video_embed'
         define :MAIN_VIDEO_URL, 'main_video_url'
         define :IMAGE_SMALL_URL, 'image_small_url'
-        define :IMAGE_URL, 'image_url'
         define :THANKS_VIDEO_URL, 'thanks_video_url'
         define :THANKS_EMBED, 'thanks_embed'
         define :THANKS_MSG, 'thanks_msg'
